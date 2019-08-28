@@ -29,8 +29,8 @@ ATCMTD serves as the leading-edge transportation technology deployment grant for
 Denver is seeking information on solutions that are ready to deploy today that meet the vision statement outlined above.
 Solutions must:
 * Utilize DSRC technology and appropriate standards (J2735 message formats, etc.)
-* Allow an onboard unit (OBU) to generate a request based on a vehicle input, such as the snow plow being down and in use, in the case of a city fleet vehicle.
-* Interface with an Advanced Transportation Controller (ATC) via a contact closure or NTCIP object. 
+* Allow an onboard unit (OBU) to generate a request based on a vehicle input, including from a vehicle's controller area network (CAN) bus, which may indicate a snowplow's plow is down and in use on a city fleet vehicle.
+* Interface with an Advanced Transportation Controller (ATC) via a contact closure, MIBs object via SNMP, or NTCIP object. 
 Denver is seeking to procure and deploy this solution by December, 2019. 
 
 ## Process for commenting
