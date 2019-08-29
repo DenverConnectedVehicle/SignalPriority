@@ -36,8 +36,7 @@ Denver is seeking to procure and deploy this solution by December, 2019.
 ## Process for commenting
 Please use one of the two following methods for providing feedback on these technology specifications:
 1. Submit a ticket on GitHub for broader recommendations, or non-specific edits.
-1. If your proposed solution is not something your company is willing to share publicly, please email atcmtd@denvergov.org 
-    1. Please note: Anything not marked, “trade secret”, or “proprietary confidential” may still be made public via public records request.
+1. If your proposed solution is not something your company is willing to share publicly, please email atcmtd@denvergov.org. Please note: Anything not marked, “trade secret”, or “proprietary confidential” may still be made public via public records request.
 
 ## Due Date and Time
 This is an open RFI, and will remain open until Denver identifies and selects a solution to implement.
